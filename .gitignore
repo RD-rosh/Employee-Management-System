@@ -1,0 +1,54 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# ASP.NET
+bin/
+obj/
+
+# Entity Framework Core
+*.mdf
+*.ldf
+
+# ASP.NET Scaffolding
+.scaffolding
+
+# NPM packages
+node_modules/
+
+# Visual Studio Code
+.vscode/
+
+# Config files
+appsettings*.json
+
+# Mac-specific files
+*.DS_Store
+
+# Rider/JetBrains
+.idea/
+*.sln.iml
+
+# Visual Studio
+.vscode/
+*.vs/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+#bootstrap
+wwwroot/lib/
+lib/
+
+2024-10-27 22-53-20.mov
